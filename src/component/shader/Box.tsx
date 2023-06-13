@@ -15,7 +15,7 @@ const Cube = () =>{
 function Box() {
   return (
     <div>
-      <Canvas>
+      <Canvas >
         <Cube />
         <OrbitControls />
       </Canvas>
