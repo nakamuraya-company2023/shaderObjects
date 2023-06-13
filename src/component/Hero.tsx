@@ -36,6 +36,8 @@ function Hero() {
           >
             <i className="fa-brands fa-linkedin"></i>
           </a>
+
+          
         </div>
       </div>
     </div>
