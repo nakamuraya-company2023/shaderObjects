@@ -13,7 +13,7 @@ pnpm dev
 ```
 
 ```bash
-20230613
+新しく入れ替えました
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
