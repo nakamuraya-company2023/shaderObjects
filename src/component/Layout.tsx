@@ -1,12 +1,13 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Fotter from './Fotter'
+import Hero from './Hero'
 
-function  Layout({children}) {
+function  Layout({}) {
   return (
     <div>
         <Navbar />
-      <main>{children}</main>
+      <Hero />
       <Fotter />
     </div>
   )
